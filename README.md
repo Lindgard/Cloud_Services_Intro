@@ -25,3 +25,12 @@ of services.
 - Azure Entra ID
   - collects the identities and access control for an application
   - Is built into pretty much every microsoft product like Azure and Office365
+
+## TODO
+
+se på sikkerhetsbiten mer, id-utsteder, definere regler, policy enforcement.
+
+## Links
+
+(Azure security
+documentation)<https://learn.microsoft.com/en-us/azure/?product=security>
